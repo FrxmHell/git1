@@ -1,0 +1,118 @@
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\bin\Debug\Sklad.sdf
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe.config
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.pdb
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.Properties.Resources.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.GenerateResource.Cache
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.exe
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.pdb
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fMain.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPostavshiki.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fKlienti.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTemplate.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fStuffs.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTovari.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPreview.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihod.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fRashod.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihodRashod.resources
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Office.dll
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.ResolveComReference.cache
+C:\Users\aaa\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fAbout.resources
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe.config
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Office.dll
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.ResolveComReference.cache
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.exe
+C:\Users\aaa\Desktop\Учеба\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.pdb
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe.config
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.ResolveComReference.cache
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.exe
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.pdb
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\bin\Debug\Sklad.sdf
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.pdb
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fAbout.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihodRashod.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fRashod.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihod.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTovari.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fStuffs.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fKlienti.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fMain.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPostavshiki.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTemplate.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe.config
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.ResolveComReference.cache
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.exe
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.pdb
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\bin\Debug\Sklad.sdf
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.pdb
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fAbout.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihodRashod.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fRashod.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihod.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPreview.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTovari.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fStuffs.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fKlienti.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fMain.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPostavshiki.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTemplate.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\Практика учебная useless СУБД\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.GenerateResource.Cache
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.ResolveComReference.cache
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fAbout.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihodRashod.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fRashod.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihod.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTovari.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fStuffs.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fKlienti.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fMain.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPostavshiki.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTemplate.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.Properties.Resources.resources
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.exe
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.pdb
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe.config
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\bin\Debug\Sklad.sdf
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.pdb
+C:\Users\Денис\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csprojResolveAssemblyReference.cache
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe.config
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.ResolveComReference.cache
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.exe
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.pdb
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\bin\Debug\Sklad.sdf
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.exe
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\bin\Debug\SkladSUBD.pdb
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csprojResolveAssemblyReference.cache
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihodRashod.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fRashod.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPrihod.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTovari.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fStuffs.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fKlienti.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fMain.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fPostavshiki.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fTemplate.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.Properties.Resources.resources
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.csproj.GenerateResource.Cache
+C:\Users\Denz\Desktop\SkladSUBD\SkladSUBD\obj\x86\Debug\SkladSUBD.fLogin.resources
